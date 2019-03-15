@@ -1,4 +1,5 @@
 ---
+title: "About"
 description: "About Me/shutas.io"
 ---
 
